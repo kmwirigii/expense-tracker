@@ -41,16 +41,13 @@ function App() {
   }
   
   function handleSort(field) {
-
     if (sortBy === field) {
       setSortDirection(sortDirection === "asc" ? "desc" : "asc");
     } else {
-
       setSortBy(field);
       setSortDirection("asc");
     }
   }
-  
   
   function getFilteredExpenses() {
     return expenses.filter(expense => {
@@ -112,7 +109,6 @@ function App() {
     <div className="container">
       <h1>My Expense Tracker</h1>
       
-      {}
       <div className="search-box">
         <input
           type="text"
@@ -122,7 +118,6 @@ function App() {
         />
       </div>
       
-      { }
       <div className="expenses-section">
         <h2>My Expenses</h2>
         <table>
@@ -144,7 +139,7 @@ function App() {
               <tr key={expense.id}>
                 <td>{expense.date}</td>
                 <td>{expense.description}</td>
-                <td>${expense.amount}</td>
+                <td>Ksh {expense.amount}</td> {/* Changed to Ksh */}
                 <td>{expense.category}</td>
                 <td>
                   <button onClick={() => deleteExpense(expense.id)}>Delete</button>
@@ -155,7 +150,6 @@ function App() {
         </table>
       </div>
       
-      { }
       <div className="form-section">
         <h2>Add New Expense</h2>
         <form onSubmit={addExpense}>
