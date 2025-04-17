@@ -1,6 +1,7 @@
 Expense Tracker
 A user-friendly React application that allows users to manage their expenses by adding transactions, searching through them, and tracking spending categories.
 
+🌐 Live Demo: View on Vercel (https://expense-tracker-git-main-kelvin-mwirigis-projects.vercel.app/)
 
 🛠 Features
 Add New Expense: Input the date, description, amount, and category.
@@ -17,13 +18,13 @@ Category Tracking: Categorize each expense (e.g., Food, Transportation) for bett
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 Installation
-1.Clone the repository
+1. Clone the repository
 git clone https://github.com/kmwirigii/expense-tracker.git
 
-2.Navigate to the project directory
+2. Navigate to the project directory
 cd expense-tracker
 
-3.Install dependencies
+3. Install dependencies
 npm install
 
 4.Start the development server
@@ -53,3 +54,6 @@ You are free to use, modify, and distribute this software as long as the origina
 
 🙋‍♂️ Acknowledgments
 Inspired by various expense tracker applications and Canvas tutorials.
+
+
+Below is my
