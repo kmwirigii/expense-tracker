@@ -6,6 +6,7 @@ A user-friendly React application that allows users to manage their expenses by 
 
 
 🌐 Live Demo: View on Vercel (https://expense-tracker-git-main-kelvin-mwirigis-projects.vercel.app/)
+                             (https://expense-tracker-p5s5ca3mp-kelvin-mwirigis-projects.vercel.app/)
 
 
 🛠 Features
