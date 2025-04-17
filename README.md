@@ -62,4 +62,3 @@ You are free to use, modify, and distribute this software as long as the origina
 Inspired by various expense tracker applications and Canvas tutorials.
 
 
-Below is my
