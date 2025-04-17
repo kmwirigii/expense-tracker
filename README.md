@@ -2,7 +2,7 @@ Expense Tracker
 A user-friendly React application that allows users to manage their expenses by adding transactions, searching through them, and tracking spending categories.
 
 📸 Screenshot:
-![Screenshot](screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 
 🌐 Live Demo: View on Vercel (https://expense-tracker-git-main-kelvin-mwirigis-projects.vercel.app/)
